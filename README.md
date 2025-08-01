@@ -1,2 +1,4 @@
 # Mi primer titulo
-Un tex
+Un textooo
+##Sutitullo sobre proyecto
+el proyecto es que no tenga problemas en git
